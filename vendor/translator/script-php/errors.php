@@ -1,0 +1,20 @@
+
+[2022-07-15 08:33:13] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-07-15 07:25:42] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/. Error was :Operation timed out after 15000 milliseconds with 0 bytes received
+[2022-07-15 07:25:17] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-07-15 07:22:31] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-07-15 07:22:07] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-07-15 07:17:20] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-07-15 07:15:58] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/?Sdsdsd. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-07-15 07:15:18] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.com/?Sdsd. Error was :Operation timed out after 15001 milliseconds with 0 bytes received
+[2022-06-29 05:49:21] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=de. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:58:37] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:58:09] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=de. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:56:58] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=de. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:56:27] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=de. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:56:08] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=de. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:55:48] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=es. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:55:18] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=es. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:55:03] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/?language=es. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:54:30] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/contact-us/?language=es. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp
+[2022-06-29 04:53:01] Failed to retrieve website data, redirect to http://wptranslator.xcelanceweb.comhttp://wptranslator.xcelanceweb.com/contact-us/?language=de. Error was :Could not resolve host: wptranslator.xcelanceweb.comhttp

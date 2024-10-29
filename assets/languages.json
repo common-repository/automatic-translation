@@ -1,0 +1,173 @@
+{
+    "bg" : {
+        "name" : "Bulgarian",
+        "original_name" : "Български",
+        "code" : "bg",
+        "image" : "bg.svg"
+    },
+    "cs" : {
+        "name" : "Czech",
+        "original_name" : "Čeština",
+        "code" : "cs",
+        "image" : "cs.svg"
+    },
+    "da" : {
+        "name" : "Danish",
+        "original_name" : "Dansk",
+        "code" : "da",
+        "image" : "da.svg"
+    },
+    "de" : {
+        "name" : "German",
+        "original_name" : "Deutsch",
+        "code" : "de",
+        "image" : "de.svg"
+    },
+    "el": {
+        "name": "Greek",
+        "original_name": "Ελληνικά",
+        "code": "el",
+        "image" : "el.svg"
+    },
+    "en" : {
+        "name" : "English (British)",
+        "original_name" : "English (British)",
+        "code" : "en",
+        "image" : "en.svg"
+    },
+    "en-us" : {
+        "name" : "English (American)",
+        "original_name" : "English (American)",
+        "code" : "en",
+        "image" : "en-us.svg"
+    },
+    "es" : {
+        "name" : "Spanish",
+        "original_name" : "Español",
+        "code" : "es",
+        "image" : "es.svg"
+    },
+    "et": {
+        "name": "Estonian",
+        "original_name": "Eesti",
+        "code": "et",
+        "image" : "et.svg"
+    },
+    "fi": {
+        "name": "Finnish",
+        "original_name": "Suomi",
+        "code": "fi",
+        "image" : "fi.svg"
+    },
+    "fr": {
+        "name": "French",
+        "original_name": "Français",
+        "code": "fr",
+        "image" : "fr.svg"
+    },
+    "hu": {
+        "name": "Hungarian",
+        "original_name": "Magyar",
+        "code": "hu",
+        "image" : "hu.svg"
+    },
+    "it": {
+        "name": "Italian",
+        "original_name": "Italiano",
+        "code": "it",
+        "image" : "it.svg"
+    },
+    "ja": {
+        "name": "Japanese",
+        "original_name": "日本語",
+        "code": "ja",
+        "image" : "ja.svg"
+    },
+    "lt": {
+        "name": "Lithuanian",
+        "original_name": "Lietuvių",
+        "code": "lt",
+        "image" : "lt.svg"
+    },
+    "lv": {
+        "name": "Latvian",
+        "original_name": "Latviešu",
+        "code": "lv",
+        "image" : "lv.svg"
+    },
+    "nl": {
+        "name": "Dutch",
+        "original_name": "Nederlands",
+        "code": "nl",
+        "image" : "nl.svg"
+    },
+    "pl": {
+        "name": "Polish",
+        "original_name": "Polski",
+        "code": "pl",
+        "image" : "pl.svg"
+    },
+    "pt": {
+        "name": "Portuguese (European)",
+        "original_name": "Português",
+        "code": "pt",
+        "image" : "pt.svg"
+    },
+    "pt-br": {
+        "name": "Portuguese (Brazilian)",
+        "original_name": "Português",
+        "code": "pt",
+        "image" : "pt-br.svg"
+    },
+    "ro": {
+        "name": "Romanian",
+        "original_name": "Română",
+        "code": "ro",
+        "image" : "ro.svg"
+    },
+    "ru": {
+        "name": "Russian",
+        "original_name": "Русский",
+        "code": "ru",
+        "image" : "ru.svg"
+    },
+    "sk": {
+        "name": "Slovak",
+        "original_name": "Slovenčina",
+        "code": "sk",
+        "image" : "sk.svg"
+    },
+    "sl": {
+        "name": "Slovenian",
+        "original_name": "Slovenščina",
+        "code": "sl",
+        "image" : "sl.svg"
+    },
+    "sv": {
+        "name": "Swedish",
+        "original_name": "Svenska",
+        "code": "sv",
+        "image" : "sv.svg"
+    },
+    "zh": {
+        "name": "Chinese",
+        "original_name": "中文",
+        "code": "zh",
+        "image" : "zh.svg"
+    },
+    "tr": {
+        "name": "Turkish",
+        "original_name": "Türkçe",
+        "code": "tr"
+    },
+    "id": {
+        "name": "Indonesian",
+        "original_name": "Indonesian",
+        "code": "id"
+    },
+    "uk": {
+        "name": "Ukrainian",
+        "original_name": "Українська",
+        "code": "uk"
+    }
+}

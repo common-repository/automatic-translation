@@ -1,0 +1,102 @@
+.translator-main-heading {
+    text-align: center;
+    font-size: 25px;
+    background: #7127eacf;
+    margin-top: 0px;
+    padding: 20px 0px;
+    margin-left: -20px;
+    color: #ffffff;
+}
+
+.btn.btn-primary{
+    background: #8c50ee;
+    border-color: #8c50ee;
+}
+
+.btn.btn-primary:hover,.btn.btn-primary:focus,.btn.btn-primary:active{
+    color: #8c50ee;
+    border-color: #8c50ee;
+    background-color: transparent;
+}
+
+.mt-btn{
+    margin-top: 1.8rem!important;
+}
+
+.form-select {
+    padding: 0.375rem 2.25rem 0.375rem 0.75rem !important;
+    font-size: 1rem !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    max-width: 100% !important;
+    background-color: #fff !important;
+    background-image: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e) !important;
+    background-size: 16px 12px !important;
+    border: 1px solid #ced4da !important;
+    border-radius: 0.25rem !important;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
+.select2 {
+    width:98%!important;
+}
+
+.translator-alert-box {
+    width: 50% !important;
+    margin: auto;
+    display: table;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__rendered {
+    margin-bottom: -14px;
+}
+
+.translator-p{
+    font-size: 16px;
+}
+
+.translator-small{
+    font-size: 14px;
+}
+
+.progress-bar {
+    background-color: #8c50ee !important;
+}
+
+.row {
+    margin-right: 0px !important;
+}
+
+#loader, .text-loader {
+    position: fixed !important;
+    left: 60.4%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    /* height: 100%; */
+    z-index: 9999;
+    background: url(../images/loader-translator.gif) 50% 50% no-repeat rgb(255 13 13 / 0%);
+    width: 125px;
+    height: 130px;
+    /* position: absolute; */
+    background-size: contain;
+    /* display: block !important; */
+}
+.loader-overlay {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #00000091;
+    left: 0;
+    top: 0;
+    z-index: 99;
+}
+#loader.slider-loader, .text-loader {
+    left: 52%;
+}
+/*.notice{
+    display: none !important;
+}*/
